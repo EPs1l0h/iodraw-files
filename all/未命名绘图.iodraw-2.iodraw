@@ -19,7 +19,7 @@
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-5" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="310" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SacrKpQv-hpLbMCMdTF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SacrKpQv-hpLbMCMdTF-3" target="9SacrKpQv-hpLbMCMdTF-3">
+        <mxCell id="9SacrKpQv-hpLbMCMdTF-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;自隐藏&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SacrKpQv-hpLbMCMdTF-3" target="9SacrKpQv-hpLbMCMdTF-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="207.60003662109375" y="537.2000122070312" as="targetPoint" />
             <Array as="points">
