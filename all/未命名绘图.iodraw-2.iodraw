@@ -7,8 +7,10 @@
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-4" value="跳板通道" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="hBoL9Ztzy5p0jLgw3Qjj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9SacrKpQv-hpLbMCMdTF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="9SacrKpQv-hpLbMCMdTF-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9SacrKpQv-hpLbMCMdTF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="412" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-1" value="Juniper srx 340&lt;div style=&quot;font-size: 16px;&quot;&gt;运行远控server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="160" height="60" as="geometry" />
@@ -18,9 +20,6 @@
         </mxCell>
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-5" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="310" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9SacrKpQv-hpLbMCMdTF-1" value="" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;rounded=0;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="100" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
