@@ -7,6 +7,9 @@
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-4" value="跳板通道" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="hBoL9Ztzy5p0jLgw3Qjj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9SacrKpQv-hpLbMCMdTF-4" value="释放并加载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="9SacrKpQv-hpLbMCMdTF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-1" value="Juniper srx 340&lt;div style=&quot;font-size: 16px;&quot;&gt;运行远控server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="160" height="60" as="geometry" />
         </mxCell>
