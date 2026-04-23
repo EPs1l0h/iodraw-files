@@ -7,7 +7,7 @@
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-4" value="跳板通道" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="hBoL9Ztzy5p0jLgw3Qjj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9SacrKpQv-hpLbMCMdTF-4" value="释放并加载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="9SacrKpQv-hpLbMCMdTF-3">
+        <mxCell id="9SacrKpQv-hpLbMCMdTF-4" value="释放并加载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontFamily=Times New Roman;" edge="1" parent="1" source="hBoL9Ztzy5p0jLgw3Qjj-1" target="9SacrKpQv-hpLbMCMdTF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-1" value="Juniper srx 340&lt;div style=&quot;font-size: 16px;&quot;&gt;运行远控server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="hBoL9Ztzy5p0jLgw3Qjj-5" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="310" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SacrKpQv-hpLbMCMdTF-3" value="Juniper srx 340&lt;div style=&quot;font-size: 16px;&quot;&gt;运行远控server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="9SacrKpQv-hpLbMCMdTF-3" value="amod.ko内核模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="442" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
